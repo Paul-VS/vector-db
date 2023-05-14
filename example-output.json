@@ -1,0 +1,10 @@
+{
+  "https://api.github.com/repos/test/kit/contents/docs/introduction.md": [
+    "<h2>title: Introduction</h2>\n",
+    "<h2>What is TestKit?</h2>\n<p>TestKit is a framework for rapidly developing robust, performant web applications. If you're coming from React, TestKit is similar to Next.</p>\n"
+  ],
+  "https://api.github.com/repos/test/kit/contents/docs/creating-a-project.md": [
+    "<h2>title: Creating a project</h2>\n<p>The easiest way to start building a TestKit app is to run <code>npm create</code>:</p>\n",
+    "<h2>Editor setup</h2>\n<p>We recommend using <a href=\"https://code.visualstudio.com/download\">Visual Studio Code (aka VS Code)</a> with <a href=\"https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode\">the TestKit extension</a>.</p>"
+  ]
+}
